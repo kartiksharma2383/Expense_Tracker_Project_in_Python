@@ -1,1 +1,1 @@
-# Expense_Tracker_Project_in_Python
+A Python-based application to manage personal finances. Users can add, edit, or delete expense entries with details like date, category, and amount. This project supports custom categories/subcategories and exports data to Excel for easy analysis. View summaries of total spending and category-wise expenses. Built with pandas and openpyxl, it offers a simple command-line interface for efficient expense tracking. Ideal for budgeting and financial organization.
